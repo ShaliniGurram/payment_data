@@ -1,0 +1,26 @@
+[
+  {
+    "entity_id": "pay_001",
+    "customer_name": "Shalini G",
+    "payment_status": "successful",
+    "amount": 1500,
+    "currency": "INR",
+    "description": "Concert tickets - order #11234",
+    "airweave_system_metadata": {
+      "source_name": "manual_upload",
+      "entity_type": "payment_record"
+    }
+  },
+  {
+    "entity_id": "pay_002",
+    "customer_name": "Rishika R",
+    "payment_status": "failed",
+    "amount": 1500,
+    "currency": "INR",
+    "description": "Concert tickets - order #11235 (card declined)",
+    "airweave_system_metadata": {
+      "source_name": "manual_upload",
+      "entity_type": "payment_record"
+    }
+  }
+]
